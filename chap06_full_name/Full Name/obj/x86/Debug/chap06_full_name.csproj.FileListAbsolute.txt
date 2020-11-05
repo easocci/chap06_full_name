@@ -1,0 +1,9 @@
+H:\CIS163-001\chap06_full_name\Full Name\bin\Debug\Full Name.exe
+H:\CIS163-001\chap06_full_name\Full Name\bin\Debug\Full Name.pdb
+H:\CIS163-001\chap06_full_name\Full Name\obj\x86\Debug\chap06_full_name.csprojAssemblyReference.cache
+H:\CIS163-001\chap06_full_name\Full Name\obj\x86\Debug\Full_Name.Form1.resources
+H:\CIS163-001\chap06_full_name\Full Name\obj\x86\Debug\Full_Name.Properties.Resources.resources
+H:\CIS163-001\chap06_full_name\Full Name\obj\x86\Debug\chap06_full_name.csproj.GenerateResource.cache
+H:\CIS163-001\chap06_full_name\Full Name\obj\x86\Debug\chap06_full_name.csproj.CoreCompileInputs.cache
+H:\CIS163-001\chap06_full_name\Full Name\obj\x86\Debug\Full Name.exe
+H:\CIS163-001\chap06_full_name\Full Name\obj\x86\Debug\Full Name.pdb
